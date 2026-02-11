@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+.env
+.env.local
+.next/
+out/
+build/
+dist/
+# Log files
+logs/
+*.log
+# Dependency directories
+jspm_packages/
