@@ -1,0 +1,14 @@
+{
+  "name": "eco-point-backend",
+  "version": "1.0.0",
+  "description": "Backend for Eco-point system",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo 'No tests specified' && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9"
+  }
+}
